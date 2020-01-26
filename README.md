@@ -1,5 +1,5 @@
 # flwt-test
-Application to send out emails with attached PDF file. The file itself consists of readable data and the same data converted to barcode (in Code128 format). Data should be read from Sqlite database.
+Application to send out emails with a PDF file attached. The file itself consists of readable data and the same data converted to barcode (in Code128 format). Data should be read from Sqlite database.
 
 # Requirements
 
