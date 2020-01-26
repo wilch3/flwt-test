@@ -1,0 +1,7 @@
+// set up smtp server compatible with email of your choice in 'email_sender.py', line 57
+{
+  "email": {
+    "login": "",  // example@example.com
+    "password": ""
+  }
+}
